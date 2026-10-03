@@ -1,2 +1,0 @@
-# wecan
-AI Certificate class
